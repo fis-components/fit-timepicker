@@ -1,0 +1,12 @@
+{
+    "repos": "https://github.com/tb-component/timepicker.git",
+    "name": "fit-timepicker",
+    "main": "lib/index.js",
+    "dependencies": {
+        "fit-style": "^1.1.9"
+    },
+    "version": "0.2.10",
+    "description": "tb react timepicker",
+    "tag": "master",
+    "reposType": "npm"
+}
