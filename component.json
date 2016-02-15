@@ -12,7 +12,7 @@
         "moment": "^2.10.6",
         "react": "^0.14.3"
     },
-    "version": "0.2.42",
+    "version": "0.2.43",
     "description": "tb react timepicker",
     "tag": "master",
     "reposType": "npm"
