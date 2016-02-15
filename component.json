@@ -4,15 +4,15 @@
     "main": "lib/index.js",
     "dependencies": {
         "classnames": "^2.2.1",
-        "fit-input": "^1.1.25",
-        "fit-radio": "^1.1.34",
-        "fit-select": "^1.1.20",
-        "fit-style": "^1.1.20",
+        "fit-input": "^1.1.27",
+        "fit-radio": "^1.1.35",
+        "fit-select": "^1.1.21",
+        "fit-style": "^1.1.21",
         "jquery": "^2.1.4",
         "moment": "^2.10.6",
         "react": "^0.14.3"
     },
-    "version": "0.2.41",
+    "version": "0.2.42",
     "description": "tb react timepicker",
     "tag": "master",
     "reposType": "npm"
